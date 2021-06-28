@@ -1,7 +1,0 @@
-D:\study\Cproject\PSOTest2\PSOTest2\bin\Debug\PSOTest2.exe.config
-D:\study\Cproject\PSOTest2\PSOTest2\bin\Debug\PSOTest2.exe
-D:\study\Cproject\PSOTest2\PSOTest2\bin\Debug\PSOTest2.pdb
-D:\study\Cproject\PSOTest2\PSOTest2\obj\Debug\PSOTest2.csproj.CoreCompileInputs.cache
-D:\study\Cproject\PSOTest2\PSOTest2\obj\Debug\PSOTest2.exe
-D:\study\Cproject\PSOTest2\PSOTest2\obj\Debug\PSOTest2.pdb
-D:\study\Cproject\PSOTest2\PSOTest2\obj\Debug\PSOTest2.csproj.AssemblyReference.cache
